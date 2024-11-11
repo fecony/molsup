@@ -2,6 +2,8 @@
 
 App to store suppliers and upload catalog files.
 
+<p align="center"><img src="https://github.com/user-attachments/assets/b50a932e-50a3-4e9c-9ac3-91612515c093" width="800" alt="Molsup"></p>
+
 ## Prerequisites
 
 - Initial suppliers and catalog items data is populated to IndexedDB database via [Dexie.js](https://dexie.org/)
