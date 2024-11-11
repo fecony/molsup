@@ -1,0 +1,82 @@
+[
+  {
+    "molportId": "Molport-000-000-285",
+    "supplier": "ChemDiv, Inc.",
+    "smiles": "Nc1cccnc1C(O)=O",
+    "sellUnit": 5,
+    "measure": "g",
+    "price": 23,
+    "directShippingTime": 5,
+    "directShippingPrice": 95
+  },
+  {
+    "molportId": "Molport-000-000-285",
+    "supplier": "ChemDiv, Inc.",
+    "smiles": "Nc1cccnc1C(O)=O",
+    "sellUnit": 25,
+    "measure": "g",
+    "price": 80,
+    "directShippingTime": 5,
+    "directShippingPrice": 95
+  },
+  {
+    "molportId": "Molport-000-000-285",
+    "supplier": "ChemDiv, Inc.",
+    "smiles": "Nc1cccnc1C(O)=O",
+    "sellUnit": 1,
+    "measure": "g",
+    "price": 9,
+    "directShippingTime": 5,
+    "directShippingPrice": 95
+  },
+  {
+    "molportId": "Molport-000-000-285",
+    "supplier": "ChemDiv, Inc.",
+    "smiles": "Nc1cccnc1C(O)=O",
+    "sellUnit": 100,
+    "measure": "g",
+    "price": 319,
+    "directShippingTime": 5,
+    "directShippingPrice": 95
+  },
+  {
+    "molportId": "Molport-000-000-285",
+    "supplier": "ChemDiv, Inc.",
+    "smiles": "Nc1cccnc1C(O)=O",
+    "sellUnit": 10,
+    "measure": "g",
+    "price": 35,
+    "directShippingTime": 5,
+    "directShippingPrice": 95
+  },
+  {
+    "molportId": "Molport-000-000-289",
+    "supplier": "ChemDiv, Inc.",
+    "smiles": "CC(C)(C)OC(=O)N1CCCC(N)C1",
+    "sellUnit": 1,
+    "measure": "g",
+    "price": 9,
+    "directShippingTime": 7,
+    "directShippingPrice": 95
+  },
+  {
+    "molportId": "Molport-000-000-289",
+    "supplier": "ChemDiv, Inc.",
+    "smiles": "CC(C)(C)OC(=O)N1CCCC(N)C1",
+    "sellUnit": 5,
+    "measure": "g",
+    "price": 16,
+    "directShippingTime": 7,
+    "directShippingPrice": 95
+  },
+  {
+    "molportId": "Molport-000-000-289",
+    "supplier": "ChemDiv, Inc.",
+    "smiles": "CC(C)(C)OC(=O)N1CCCC(N)C1",
+    "sellUnit": 100,
+    "measure": "g",
+    "price": 127,
+    "directShippingTime": 7,
+    "directShippingPrice": 95
+  }
+]

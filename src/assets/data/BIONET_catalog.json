@@ -1,0 +1,142 @@
+[
+  {
+    "molportId": "Molport-000-000-275",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "CC(=O)c1ncccc1N",
+    "sellUnit": 1,
+    "measure": "g",
+    "price": 864,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-275",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "CC(=O)c1ncccc1N",
+    "sellUnit": 250,
+    "measure": "mg",
+    "price": 381,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-277",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "C=CCOc1ccccc1C=O",
+    "sellUnit": 10,
+    "measure": "mg",
+    "price": 79,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-277",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "C=CCOc1ccccc1C=O",
+    "sellUnit": 1,
+    "measure": "mg",
+    "price": 47,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-277",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "C=CCOc1ccccc1C=O",
+    "sellUnit": 25,
+    "measure": "g",
+    "price": 187,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-277",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "C=CCOc1ccccc1C=O",
+    "sellUnit": 25,
+    "measure": "mg",
+    "price": 118,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-277",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "C=CCOc1ccccc1C=O",
+    "sellUnit": 50,
+    "measure": "mg",
+    "price": 128,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-277",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "C=CCOc1ccccc1C=O",
+    "sellUnit": 5,
+    "measure": "mg",
+    "price": 58,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-278",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "Oc1c(CC=C)cccc1C=O",
+    "sellUnit": 10,
+    "measure": "mg",
+    "price": 79,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-278",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "Oc1c(CC=C)cccc1C=O",
+    "sellUnit": 1,
+    "measure": "mg",
+    "price": 47,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-278",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "Oc1c(CC=C)cccc1C=O",
+    "sellUnit": 25,
+    "measure": "mg",
+    "price": 118,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-278",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "Oc1c(CC=C)cccc1C=O",
+    "sellUnit": 50,
+    "measure": "mg",
+    "price": 128,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-278",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "Oc1c(CC=C)cccc1C=O",
+    "sellUnit": 5,
+    "measure": "g",
+    "price": 156,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-278",
+    "supplier": "BIONET - Key Organics Ltd.",
+    "smiles": "Oc1c(CC=C)cccc1C=O",
+    "sellUnit": 5,
+    "measure": "mg",
+    "price": 58,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  }
+]

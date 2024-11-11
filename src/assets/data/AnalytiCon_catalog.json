@@ -1,0 +1,82 @@
+[
+  {
+    "molportId": "Molport-000-000-370",
+    "supplier": "AnalytiCon Discovery",
+    "smiles": "Cl.Cl.N[C@@H]1CCCNC1 |r|",
+    "sellUnit": 10,
+    "measure": "mg",
+    "price": 79,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-370",
+    "supplier": "AnalytiCon Discovery",
+    "smiles": "CC(=O)c1ncccc1N",
+    "sellUnit": 1,
+    "measure": "mg",
+    "price": 47,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-370",
+    "supplier": "AnalytiCon Discovery",
+    "smiles": "CC(=O)c1ncccc1N",
+    "sellUnit": 25,
+    "measure": "mg",
+    "price": 118,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-370",
+    "supplier": "AnalytiCon Discovery",
+    "smiles": "CC(=O)c1ncccc1N",
+    "sellUnit": 5,
+    "measure": "g",
+    "price": 147,
+    "directShippingTime": 7,
+    "directShippingPrice": 80
+  },
+  {
+    "molportId": "Molport-000-000-468",
+    "supplier": "AnalytiCon Discovery",
+    "smiles": "NC(=O)c1ccnc(N)c1",
+    "sellUnit": 1,
+    "measure": "g",
+    "price": 41,
+    "directShippingTime": 5,
+    "directShippingPrice": 70
+  },
+  {
+    "molportId": "Molport-000-000-533",
+    "supplier": "AnalytiCon Discovery",
+    "smiles": "NC(C(O)=O)c1ccc(Br)cc1",
+    "sellUnit": 50,
+    "measure": "g",
+    "price": 1994,
+    "directShippingTime": 7,
+    "directShippingPrice": 80
+  },
+  {
+    "molportId": "Molport-000-000-533",
+    "supplier": "AnalytiCon Discovery",
+    "smiles": "NC(C(O)=O)c1ccc(Br)cc2",
+    "sellUnit": 50,
+    "measure": "mg",
+    "price": 128.56,
+    "directShippingTime": 7,
+    "directShippingPrice": 80
+  },
+  {
+    "molportId": "Molport-000-000-533",
+    "supplier": "AnalytiCon Discovery",
+    "smiles": "NC(C(O)=O)c1ccc(Br)cc3",
+    "sellUnit": 5,
+    "measure": "g",
+    "price": 299.34,
+    "directShippingTime": 7,
+    "directShippingPrice": 80
+  }
+]

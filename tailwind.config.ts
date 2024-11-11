@@ -7,80 +7,19 @@ export default {
   theme: {
     extend: {
       fontFamily: { sans: ["Euclid Circular A", ...fontFamily.sans] },
-      fontSize: {
-        h1: [
-          "3.5rem",
-          {
-            lineHeight: "120%",
-            fontWeight: "400",
-          },
-        ],
-        h2: [
-          "3rem",
-          {
-            lineHeight: "120%",
-            fontWeight: "400",
-          },
-        ],
-        h3: [
-          "2.5rem",
-          {
-            lineHeight: "120%",
-            fontWeight: "400",
-          },
-        ],
-        h4: [
-          "2rem",
-          {
-            lineHeight: "130%",
-            fontWeight: "400",
-          },
-        ],
-        h5: [
-          "1.5rem",
-          {
-            lineHeight: "140%",
-            fontWeight: "400",
-          },
-        ],
-        h6: [
-          "1.25rem",
-          {
-            lineHeight: "140%",
-            fontWeight: "400",
-          },
-        ],
 
-        xs: [
-          "0.75rem",
-          {
-            lineHeight: "1.125rem",
-          },
-        ],
-        sm: [
-          "0.875rem",
-          {
-            lineHeight: "1.3125rem",
-          },
-        ],
-        md: [
-          "1rem",
-          {
-            lineHeight: "1.5rem",
-          },
-        ],
-        lg: [
-          "1.125rem",
-          {
-            lineHeight: "1.6875rem",
-          },
-        ],
-        xl: [
-          "1.25rem",
-          {
-            lineHeight: "1.875rem",
-          },
-        ],
+      fontSize: {
+        h1: ["3.5rem", { lineHeight: "120%", fontWeight: "400" }],
+        h2: ["3rem", { lineHeight: "120%", fontWeight: "400" }],
+        h3: ["2.5rem", { lineHeight: "120%", fontWeight: "400" }],
+        h4: ["2rem", { lineHeight: "130%", fontWeight: "400" }],
+        h5: ["1.5rem", { lineHeight: "140%", fontWeight: "400" }],
+        h6: ["1.25rem", { lineHeight: "140%", fontWeight: "400" }],
+        xs: ["0.75rem", { lineHeight: "1.125rem" }],
+        sm: ["0.875rem", { lineHeight: "1.3125rem" }],
+        md: ["1rem", { lineHeight: "1.5rem" }],
+        lg: ["1.125rem", { lineHeight: "1.6875rem" }],
+        xl: ["1.25rem", { lineHeight: "1.875rem" }],
       },
 
       colors: {
@@ -157,13 +96,13 @@ export default {
       },
 
       spacing: {
-        4: "4px",
-        8: "8px",
-        16: "16px",
-        32: "32px",
-        64: "64px",
-        128: "128px",
-        256: "256px",
+        // 4: "4px",
+        // 8: "8px",
+        // 16: "16px",
+        // 32: "32px",
+        // 64: "64px",
+        // 128: "128px",
+        // 256: "256px",
 
         "inset-4": "4px",
         "inset-8": "8px",
